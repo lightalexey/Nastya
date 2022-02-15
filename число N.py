@@ -1,5 +1,4 @@
 a = int(input('введите a='))
-b = 0
 for i in range(100, 999 + 1):
     b1 = i % 10
     b2 = i // 10 % 10
